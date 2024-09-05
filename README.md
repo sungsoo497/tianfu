@@ -124,6 +124,15 @@ Hao Zou (SIMIS)
 - Hao Zou: From twisted spin chains to tensor product multiplicities
 - to be added more.
 
+## Accommodation and Venue
+* Chengdu Xiangyu hotel 成都祥宇宾馆
+  Address: No.103 Xinnan Road, Wuhou District, Chengdu (Maoziqia metro station - Exit A) 四川省成都市武侯区新南路 103 号	 (磨子桥地铁站-A口)
+  
+[English] https://www.trip.com/hotels/chengdu-hotel-detail-4496844/xiangyu-hotel/
+[Chinese] https://hotels.ctrip.com/hotels/4496844.html
+
+* Venue: Xiangyu hotel 2nd floor
+
 ##  Organizers 
 Xin Gao (Sichuan University)
 
