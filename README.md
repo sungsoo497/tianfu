@@ -77,7 +77,7 @@ Hao Zou (SIMIS)
 
 ## Program
 
- Time |9/25(Wed)   | 26(Thu) |27(Fri)   | 28(Sat) | 29(Sun) |
+ Time |9/25(Wednesday)   | 26(Thursday) |27(Friday)   | 28(Saturday) | 29(Sunday) |
 | -------- | ------- |-------- | ------- |-------- |-------- |
 | 9:00-10:00  |-------     |-------- | ------- |-------- |-------- |
 |     Coffee break|
