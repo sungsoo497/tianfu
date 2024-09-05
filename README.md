@@ -88,50 +88,53 @@ Hao Zou (SIMIS)
 | 15:30-16:30 |  -------   |-------- | ------- |-------- ||
 
 
-- Chi-Ming Chang:Black Hole Microstates in AdS
-- Bin Chen: Correlation function of thin-shell operators
-- Jin Chen: Generalized Orbifold Groupoids from SymTFTs
-- Babak Haghighat:
-- Song He:
-- Chiung Hwang: S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs
-- Seok Kim:
-- Kimyeong Lee:
-- Yang Lei: 
-- Zhijin Li: Conformality loss and short-range crossover in conformal field theories with long-range interaction 
-- Jiang Long: A supersymmetric extension of Carrollian diffeomorphism
-- Jian-Xin Lu: On the Schwinger pair production in QED
-- Wenjie Ma: Celestial Optical Theorem
-- Satoshi Nawata: 
-- Jun Nian: Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications
-- Yiwen Pan: Quasi-modularity and null states
-- Cheng Peng: TBA
-- Hongfei Shu: Overview of exact WKB method and TBA equations
-- Jiahua Tian: Higher Form and Higher Group Symmetries via Mirror Symmetry
-- Juntao Wang: Correlation Functions in TsT/TTbar Correspondence
-- Xin Wang: Refinement of Compact Calabi-Yau 3-folds,II
-- Yinan Wang: Massive Spectrum in F-theory and Distance Conjecture
-- Zhao-Long Wang: On AdS Superspace
-- Jie-Qiang Wu: 
-- Dan Xie: 
-- Junya Yagi: Tetrahedron duality
-- Wenbin Yan:
-- Haitang Yang:
-- Kilar Zhang: String Dualities and Gravitational Waves
-- Jiaju Zhang: Subsystem distance, subsystem evolution speed and thermalization
-- Peng Zhao: Notes on sums over horizons
-- Xinan Zhou: N=4 SYM on real projective space and analytic conformal bootstrap
-- Rui-Dong Zhu:TBA
-- Hao Zou: From twisted spin chains to tensor product multiplicities
+ Speaker |Title|
+ | -------- | ------- |
+|Chi-Ming Chang|Black Hole Microstates in AdS|
+|Bin Chen|Correlation function of thin-shell operators|
+|Jin Chen|Generalized Orbifold Groupoids from SymTFTs|
+|Babak Haghighat| |
+|Song He| |
+|Chiung Hwang|S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
+|Seok Kim| |
+|Kimyeong Lee||
+|Yang Lei||
+|Zhijin Li|Conformality loss and short-range crossover in conformal field theories with long-range interaction |
+|Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
+|Jian-Xin Lu|On the Schwinger pair production in QED|
+|Wenjie Ma|Celestial Optical Theorem|
+|Satoshi Nawata||
+|Jun Nian|Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
+|Yiwen Pan|Quasi-modularity and null states|
+|Cheng Peng|TBA|
+|Hongfei Shu|Overview of exact WKB method and TBA equations|
+|Jiahua Tian|Higher Form and Higher Group Symmetries via Mirror Symmetry|
+|Juntao Wang|Correlation Functions in TsT/TTbar Correspondence|
+|Xin Wang|Refinement of Compact Calabi-Yau 3-folds,II|
+|Yinan Wang|Massive Spectrum in F-theory and Distance Conjecture|
+|Zhao-Long Wang|On AdS Superspace|
+|Jie-Qiang Wu||
+|Dan Xie||
+|Junya Yagi|Tetrahedron duality|
+|Wenbin Yan||
+|Haitang Yang||
+|Kilar Zhang|String Dualities and Gravitational Waves|
+|Jiaju Zhang|Subsystem distance, subsystem evolution speed and thermalization|
+|Peng Zhao|Notes on sums over horizons|
+|Xinan Zhou|N=4 SYM on real projective space and analytic conformal bootstrap|
+|Rui-Dong Zhu|TBA|
+|Hao Zou|From twisted spin chains to tensor product multiplicities|
 - to be added more.
 
 ## Accommodation and Venue
-* Chengdu Xiangyu hotel 成都祥宇宾馆
+### Chengdu Xiangyu hotel 成都祥宇宾馆
+  
   Address: No.103 Xinnan Road, Wuhou District, Chengdu (Maoziqia metro station - Exit A) 四川省成都市武侯区新南路 103 号	 (磨子桥地铁站-A口)
   
-[English] https://www.trip.com/hotels/chengdu-hotel-detail-4496844/xiangyu-hotel/
-[Chinese] https://hotels.ctrip.com/hotels/4496844.html
+  1. [English] https://www.trip.com/hotels/chengdu-hotel-detail-4496844/xiangyu-hotel/
+  1. [Chinese] https://hotels.ctrip.com/hotels/4496844.html
 
-* Venue: Xiangyu hotel 2nd floor
+### Venue: Xiangyu hotel 2nd floor
 
 ##  Organizers 
 Xin Gao (Sichuan University)
