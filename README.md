@@ -11,6 +11,8 @@ Bin Chen (Ningbo University)
 
 Jin Chen (Xiamen University)
 
+Robert de Mello Koch (Huzhou University) 
+
 Babak Haghighat (YMSC)
 
 Song He (ITP,CAS)
@@ -95,6 +97,7 @@ to be added more.
 |Chi-Ming Chang|Black Hole Microstates in AdS|
 |Bin Chen|Correlation function of thin-shell operators|
 |Jin Chen|Generalized Orbifold Groupoids from SymTFTs|
+|Robert de Mello Koch:| |
 |Babak Haghighat| |
 |Song He| |
 |Chiung Hwang|S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
