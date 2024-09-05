@@ -1,8 +1,88 @@
-# tianfu
-## Workshop information
+# Tianfu (天府) Fields and Strings 2024
+**[`Participants`](#part)** **[`Program`](#prog)** 
+## Workshop information 
 Significant progress has been made lately with respect to the study of supersymmetric gauge theories in various dimensions in the context of supersymmetric gauge theories, quantum gravity, and string theory. The aim of this workshop is to cover some of these topics by inviting leaders in the field and also to create an environment for fruitful interactions between local and domestic researchers. Another important purpose is to provide a venue for students and postdocs in China to interact with leading experts in our research field.
 
-## Program
+
+## Participants{#part}
+Chi-Ming Chang (YMSC)
+
+Bin Chen (Ningbo University)
+
+Jin Chen (Xiamen University)
+
+Babak Haghighat (YMSC)
+
+Song He (ITP,CAS)
+
+Chiung Hwang (USTC)
+
+Seok Kim (Seoul National University)
+
+Kimyeong Lee (BIMSA)
+
+Yang Lei (Soochow University)
+
+Zhijin Li (Southeast University)
+
+Jiang Long (HUST)
+
+Jian-Xin Lu (USTC)
+
+Wenjie Ma (SIMIS)
+
+Satoshi Nawata (Fudan University)
+
+Jun Nian (ICTP-AP)
+
+Yiwen Pan (Sun Yat-sen University) 
+
+Cheng Peng (KITS UCAS)
+
+Hongfei Shu (Zhengzhou University)
+
+Jiahua Tian (East China Normal University)
+
+Juntao Wang (BIMSA)
+
+Xin Wang (Max Planck Institute for Mathematics)
+
+Yinan Wang (Beijing University)
+
+Zhao-Long Wang (Northwest University)
+
+Jie-Qiang Wu (ITP CAS)
+
+Dan Xie (Tsinghua University)
+
+Junya Yagi (YMSC)
+
+Wenbin Yan (YMSC)
+
+Haitang Yang (Sichuan University)
+
+Wen-Li Yang (Northwest University) 
+
+Kilar Zhang (Shanghai University)
+
+Jiaju Zhang (Tianjin University)
+
+Peng Zhao  (Fuzhou Joint Institute – NUS Research Institutes)
+
+Xinan Zhou (KITS UCAS)
+
+Rui-Dong Zhu (Soochow University)
+
+Hao Zou (SIMIS)
+
+## Program {#prog}
+
+ Time |9/25(Wed)   | 26(Thu) |27(Fri)   | 28(Sat) | 29(Sun) |
+| -------- | ------- |-------- | ------- |-------- |-------- |
+| 9:00  |     |-------- | ------- |-------- |-------- |
+| 9:30 |     |-------- | ------- |-------- |-------- |
+| 10:00    |     |-------- | ------- |-------- |-------- |
+
 - Chi-Ming Chang (YMSC)
 - Bin Chen: Correlation function of thin-shell operators
 - Jin Chen: Generalized Orbifold Groupoids from SymTFTs
