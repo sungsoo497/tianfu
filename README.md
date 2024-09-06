@@ -129,7 +129,7 @@ to be added more.
 |Xinan Zhou|N=4 SYM on real projective space and analytic conformal bootstrap|
 |Rui-Dong Zhu|TBA|
 |Hao Zou|From twisted spin chains to tensor product multiplicities|
-- to be added more.
+
 
 ## Accommodation and Venue
 ### Chengdu Xiangyu hotel 成都祥宇宾馆
