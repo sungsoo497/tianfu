@@ -77,7 +77,6 @@ Rui-Dong Zhu (Soochow University)
 
 Hao Zou (SIMIS)
 
-to be added more.
 
 ## Program
 
