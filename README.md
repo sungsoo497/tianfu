@@ -97,13 +97,13 @@ to be added more.
 |Chi-Ming Chang|Black Hole Microstates in AdS|
 |Bin Chen|Correlation function of thin-shell operators|
 |Jin Chen|Generalized Orbifold Groupoids from SymTFTs|
-|Robert de Mello Koch:| |
+|Robert de Mello Koch| |
 |Babak Haghighat| |
 |Song He| |
 |Chiung Hwang|S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
 |Seok Kim| |
 |Kimyeong Lee||
-|Yang Lei||
+|Yang Lei|SU(1,2) type of conformal field theory|
 |Zhijin Li|Conformality loss and short-range crossover in conformal field theories with long-range interaction |
 |Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
 |Jian-Xin Lu|On the Schwinger pair production in QED|
