@@ -105,7 +105,7 @@ Each talk: 30 minutes.
 |Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
 |Jian-Xin Lu|On the Schwinger pair production in QED|
 |Wen-Jie Ma|Celestial Optical Theorem|
-|Satoshi Nawata|Generalize instanton counting|
+|Satoshi Nawata|Generalized instanton counting|
 |Jun Nian|Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
 |Yiwen Pan|Quasi-modularity and null states|
 |Cheng Peng|TBA|
