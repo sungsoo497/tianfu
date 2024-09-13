@@ -127,7 +127,7 @@ Each talk: 30 minutes.
 |Xinan Zhou|N=4 SYM on real projective space and analytic conformal bootstrap|
 |Rui-Dong Zhu|TBA|
 |Hao Zou|From twisted spin chains to tensor product multiplicities|
-|Fengjun Xu| |
+|Fengjun Xu| GUTs on The Dark Dimension Scenario|
 
 
 ## Accommodation and Venue
