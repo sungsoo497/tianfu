@@ -120,7 +120,7 @@ Fengjun Xu (BIMSA)
 |Futoshi Yagi||
 |Junya Yagi|Tetrahedron duality|
 |Wenbin Yan|Mirror symmetry for 4d class-S theories|
-|Haitang Yang||
+|Haitang Yang|An alternative to purification in CFT|
 |Kilar Zhang|String Dualities and Gravitational Waves|
 |Jiaju Zhang|Subsystem distance, subsystem evolution speed and thermalization|
 |Peng Zhao|Notes on sums over horizons|
