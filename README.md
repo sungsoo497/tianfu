@@ -13,10 +13,6 @@ Jin Chen (Xiamen University)
 
 Robert de Mello Koch (Huzhou University) 
 
-Babak Haghighat (YMSC)
-
-Song He (ITP,CAS)
-
 Chiung Hwang (USTC)
 
 Seok Kim (Seoul National University)
@@ -57,6 +53,8 @@ Jie-Qiang Wu (ITP CAS)
 
 Dan Xie (Tsinghua University)
 
+Futoshi Yagi (Huzhou University)
+
 Junya Yagi (YMSC)
 
 Wenbin Yan (YMSC)
@@ -77,6 +75,8 @@ Rui-Dong Zhu (Soochow University)
 
 Hao Zou (SIMIS)
 
+Fengjun Xu (BIMSA)
+
 
 ## Program
 
@@ -96,18 +96,16 @@ Hao Zou (SIMIS)
 |Chi-Ming Chang|Black Hole Microstates in AdS|
 |Bin Chen|Correlation function of thin-shell operators|
 |Jin Chen|Generalized Orbifold Groupoids from SymTFTs|
-|Robert de Mello Koch| |
-|Babak Haghighat| |
-|Song He| |
+|Robert de Mello Koch| Constructive Holography|
 |Chiung Hwang|S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
-|Seok Kim| |
+|Seok Kim| Black hole hairs from cohomologies|
 |Kimyeong Lee||
 |Yang Lei|SU(1,2) type of conformal field theory|
 |Zhijin Li|Conformality loss and short-range crossover in conformal field theories with long-range interaction |
 |Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
 |Jian-Xin Lu|On the Schwinger pair production in QED|
 |Wenjie Ma|Celestial Optical Theorem|
-|Satoshi Nawata||
+|Satoshi Nawata|Generalize instanton counting|
 |Jun Nian|Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
 |Yiwen Pan|Quasi-modularity and null states|
 |Cheng Peng|TBA|
@@ -119,8 +117,9 @@ Hao Zou (SIMIS)
 |Zhao-Long Wang|On AdS Superspace|
 |Jie-Qiang Wu||
 |Dan Xie||
+|Futoshi Yagi||
 |Junya Yagi|Tetrahedron duality|
-|Wenbin Yan||
+|Wenbin Yan|Mirror symmetry for 4d class-S theories|
 |Haitang Yang||
 |Kilar Zhang|String Dualities and Gravitational Waves|
 |Jiaju Zhang|Subsystem distance, subsystem evolution speed and thermalization|
@@ -128,6 +127,7 @@ Hao Zou (SIMIS)
 |Xinan Zhou|N=4 SYM on real projective space and analytic conformal bootstrap|
 |Rui-Dong Zhu|TBA|
 |Hao Zou|From twisted spin chains to tensor product multiplicities|
+|Fengjun Xu| |
 
 
 ## Accommodation and Venue
