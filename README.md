@@ -27,7 +27,7 @@ Jiang Long (HUST)
 
 Jian-Xin Lu (USTC)
 
-Wenjie Ma (SIMIS)
+Wen-Jie Ma (SIMIS)
 
 Satoshi Nawata (Fudan University)
 
@@ -104,7 +104,7 @@ Fengjun Xu (BIMSA)
 |Zhijin Li|Conformality loss and short-range crossover in conformal field theories with long-range interaction |
 |Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
 |Jian-Xin Lu|On the Schwinger pair production in QED|
-|Wenjie Ma|Celestial Optical Theorem|
+|Wen-Jie Ma|Celestial Optical Theorem|
 |Satoshi Nawata|Generalize instanton counting|
 |Jun Nian|Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
 |Yiwen Pan|Quasi-modularity and null states|
