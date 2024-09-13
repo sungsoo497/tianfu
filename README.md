@@ -79,7 +79,7 @@ Fengjun Xu (BIMSA)
 
 
 ## Program
-
+Each talk: 30 minutes.
  Time |9/25(Wednesday)   | 26(Thursday) |27(Friday)   | 28(Saturday) | 29(Sunday) |
 | -------- | ------- |-------- | ------- |-------- |-------- |
 | 9:00-10:00  |-------     |-------- | ------- |-------- |-------- |
