@@ -113,7 +113,7 @@ Each talk: 30 minutes.
 |Jiahua Tian|Higher Form and Higher Group Symmetries via Mirror Symmetry|
 |Juntao Wang|Correlation Functions in TsT/TTbar Correspondence|
 |Xin Wang|Refinement of Compact Calabi-Yau 3-folds,II|
-|Yinan Wang|Massive Spectrum in F-theory and Distance Conjecture|
+|Yinan Wang|Updates on 4d F-theory landscape|
 |Zhao-Long Wang|On AdS Superspace|
 |Jie-Qiang Wu||
 |Dan Xie||
