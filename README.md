@@ -77,6 +77,10 @@ Hao Zou (SIMIS)
 
 Fengjun Xu (BIMSA)
 
+Jiaqun Jiang (Fudan)
+
+Qinjian Lou (Beijing University)
+
 
 ## Program
 Each talk: 30 minutes.
@@ -128,6 +132,8 @@ Each talk: 30 minutes.
 |Rui-Dong Zhu|TBA|
 |Hao Zou|From twisted spin chains to tensor product multiplicities|
 |Fengjun Xu| GUTs on The Dark Dimension Scenario|
+|Jiaqun Jiang| Young Diagram Expressions on Generalized Instanton Counting |
+|Qinjian Lou| |
 
 
 ## Accommodation and Venue
