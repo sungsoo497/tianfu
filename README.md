@@ -43,7 +43,7 @@ Juntao Wang (BIMSA)
 
 Xin Wang (Max Planck Institute for Mathematics)
 
-Yinan Wang (Beijing University)
+Yinan Wang (Peking University)
 
 Zhao-Long Wang (Northwest University)
 
@@ -77,7 +77,7 @@ Fengjun Xu (BIMSA)
 
 Jiaqun Jiang (Fudan University)
 
-Qinjian Lou (Beijing University)
+Qinjian Lou (Peking University)
 
 
 ## Program
