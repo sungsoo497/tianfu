@@ -29,8 +29,6 @@ Jian-Xin Lu (USTC)
 
 Wen-Jie Ma (SIMIS)
 
-Satoshi Nawata (Fudan University)
-
 Jun Nian (ICTP-AP)
 
 Yiwen Pan (Sun Yat-sen University) 
@@ -77,7 +75,7 @@ Hao Zou (SIMIS)
 
 Fengjun Xu (BIMSA)
 
-Jiaqun Jiang (Fudan)
+Jiaqun Jiang (Fudan University)
 
 Qinjian Lou (Beijing University)
 
@@ -109,7 +107,6 @@ Each talk: 30 minutes.
 |Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
 |Jian-Xin Lu|On the Schwinger pair production in QED|
 |Wen-Jie Ma|Celestial Optical Theorem|
-|Satoshi Nawata|Generalized instanton counting|
 |Jun Nian|Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
 |Yiwen Pan|Quasi-modularity and null states|
 |Cheng Peng|TBA|
