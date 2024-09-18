@@ -101,7 +101,7 @@ Each talk: 30 minutes.
 |Robert de Mello Koch| Constructive Holography|
 |Chiung Hwang|S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
 |Seok Kim| Black hole hairs from cohomologies|
-|Kimyeong Lee||
+|Kimyeong Lee|5d D-type SCFTs and Quantum Integrable Models|
 |Yang Lei|SU(1,2) type of conformal field theory|
 |Zhijin Li|Conformality loss and short-range crossover in conformal field theories with long-range interaction |
 |Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
