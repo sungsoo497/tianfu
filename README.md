@@ -126,7 +126,7 @@ Each talk: 30 minutes.
 |Jiaju Zhang|Subsystem distance, subsystem evolution speed and thermalization|
 |Peng Zhao|Notes on sums over horizons|
 |Xinan Zhou|N=4 SYM on real projective space and analytic conformal bootstrap|
-|Rui-Dong Zhu|TBA|
+|Rui-Dong Zhu|Learning Heisenberg Spin Chain with “rotated” Ising Model|
 |Hao Zou|From twisted spin chains to tensor product multiplicities|
 |Fengjun Xu| GUTs on The Dark Dimension Scenario|
 |Jiaqun Jiang|Young Diagram Expressions on Generalized Instanton Counting |
