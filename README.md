@@ -129,8 +129,8 @@ Each talk: 30 minutes.
 |Rui-Dong Zhu|TBA|
 |Hao Zou|From twisted spin chains to tensor product multiplicities|
 |Fengjun Xu| GUTs on The Dark Dimension Scenario|
-|Jiaqun Jiang| Young Diagram Expressions on Generalized Instanton Counting |
-|Qinjian Lou| |
+|Jiaqun Jiang|Young Diagram Expressions on Generalized Instanton Counting |
+|Qinjian Lou|Massive spectrum in F-theory and the distance conjecture |
 
 
 ## Accommodation and Venue
