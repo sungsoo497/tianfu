@@ -117,7 +117,7 @@ Each talk: 30 minutes.
 |Yinan Wang|Updates on 4d F-theory landscape|
 |Zhao-Long Wang|On AdS Superspace|
 |Jie-Qiang Wu||
-|Dan Xie||
+|Dan Xie|General construction for 3d N=4 mirror pair|
 |Futoshi Yagi|O7-plane and freezing|
 |Junya Yagi|Tetrahedron duality|
 |Wenbin Yan|Mirror symmetry for 4d class-S theories|
