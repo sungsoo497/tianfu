@@ -118,7 +118,7 @@ Each talk: 30 minutes.
 |Zhao-Long Wang|On AdS Superspace|
 |Jie-Qiang Wu||
 |Dan Xie||
-|Futoshi Yagi||
+|Futoshi Yagi|O7-plane and freezing|
 |Junya Yagi|Tetrahedron duality|
 |Wenbin Yan|Mirror symmetry for 4d class-S theories|
 |Haitang Yang|An alternative to purification in CFT|
