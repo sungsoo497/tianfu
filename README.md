@@ -109,7 +109,7 @@ Each talk: 30 minutes.
 |Wen-Jie Ma|Celestial Optical Theorem|
 |Jun Nian|Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
 |Yiwen Pan|Quasi-modularity and null states|
-|Cheng Peng|TBA|
+|Cheng Peng|Multiway Junction Conditions|
 |Hongfei Shu|Overview of exact WKB method and TBA equations|
 |Jiahua Tian|Higher Form and Higher Group Symmetries via Mirror Symmetry|
 |Juntao Wang|Correlation Functions in TsT/TTbar Correspondence|
