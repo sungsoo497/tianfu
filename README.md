@@ -11,6 +11,8 @@ Bin Chen (Ningbo University)
 
 Jin Chen (Xiamen University)
 
+Shi Cheng (SIMIS)
+
 Robert de Mello Koch (Huzhou University) 
 
 Chiung Hwang (USTC)
@@ -98,6 +100,7 @@ Each talk: 30 minutes.
 |Chi-Ming Chang|Black Hole Microstates in AdS|
 |Bin Chen|Correlation function of thin-shell operators|
 |Jin Chen|Generalized Orbifold Groupoids from SymTFTs|
+|Shi Cheng|Fusions and dualities for 3d theories T[M_3]|
 |Robert de Mello Koch| Constructive Holography|
 |Chiung Hwang|S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
 |Seok Kim| Black hole hairs from cohomologies|
