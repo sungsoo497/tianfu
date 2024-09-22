@@ -83,8 +83,22 @@ Qinjian Lou (Peking University)
 
 
 ## Program
-Each talk: 30 minutes.
- Time |9/25(Wednesday)   | 26(Thursday) |27(Friday)   | 28(Saturday) | 29(Sunday) |
+### 9/25(Wednesday)
+
+ Time | Speaker |Title|
+| 9:00-9:30  |Bin Chen| Correlation function of thin-shell operators|
+| 9:30-10:00  |Juntao Wang| Correlation Functions in TsT/TTbar Correspondence|
+|     Coffee break |
+| 10:00-10:30|  Zhijin Li| Conformality loss and short-range crossover in conformal field theories with long-range interaction |
+| 10:30-11:00| Jie-Qiang Wu| Revisiting the approach with the covariant phase formalism for the asymptotic symmetry analysis in the pure AdS3 gravity|
+
+| 14:00-14:30|Jun Nian| Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
+| 14:30-15:00|Jiahua Tian| Higher Form and Higher Group Symmetries via Mirror Symmetry|
+|     Coffee break |
+| 15:30-16:00|Chiung Hwang| S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
+| 16:00-16:30|Shi Cheng| Fusions and dualities for 3d theories T[M_3]|
+
+ |9/25(Wednesday)   | 26(Thursday) |27(Friday)   | 28(Saturday) | 29(Sunday) |
 | -------- | ------- |-------- | ------- |-------- |-------- |
 | 9:00-10:00  |-------     |-------- | ------- |-------- |-------- |
 |     Coffee break |
