@@ -166,59 +166,6 @@ Time|Speaker|Title|
 |     || Free discussion |
 
 
-Time|9/25(Wednesday)|26(Thursday)|27(Friday)|28(Saturday)|29(Sunday)|
-| -------- | ------- |-------- | ------- |-------- |-------- |
-| 9:00-10:00  |-------     |-------- | ------- |-------- |-------- |
-|     Coffee break |
-| 10:30-11:30|-------  |-------- | ------- |-------- |-------- |
-|    Lunch |
-| 14:00-15:00 | -------    |-------- | ------- |-------- |Free discussion|
-|    Coffee break |
-| 15:30-16:30 |  -------   |-------- | ------- |-------- |
-
-
-### test
- Speaker |Title|
- | -------- | ------- |
-|Chi-Ming Chang|Black Hole Microstates in AdS|
-|Bin Chen|Correlation function of thin-shell operators|
-|Jin Chen|Generalized Orbifold Groupoids from SymTFTs|
-|Shi Cheng|Fusions and dualities for 3d theories T[M_3]|
-|Robert de Mello Koch| Constructive Holography|
-|Chiung Hwang|S-Confinement and Monopole-Deformed Seiberg-like Dualities for Adjoint SQCDs|
-|Seok Kim| Black hole hairs from cohomologies|
-|Kimyeong Lee|5d D-type SCFTs and Quantum Integrable Models|
-|Yang Lei|SU(1,2) type of conformal field theory|
-|Zhijin Li|Conformality loss and short-range crossover in conformal field theories with long-range interaction |
-|Jiang Long|A supersymmetric extension of Carrollian diffeomorphism|
-|Jian-Xin Lu|On the Schwinger pair production in QED|
-|Wen-Jie Ma|Celestial Optical Theorem|
-|Jun Nian|Quantum Corrected AdS/CFT Correspondence at Low Temperatures and Its Applications|
-|Yiwen Pan|Quasi-modularity and null states|
-|Cheng Peng|Multiway Junction Conditions|
-|Hongfei Shu|Overview of exact WKB method and TBA equations|
-|Jiahua Tian|Higher Form and Higher Group Symmetries via Mirror Symmetry|
-|Juntao Wang|Correlation Functions in TsT/TTbar Correspondence|
-|Xin Wang|Refinement of Compact Calabi-Yau 3-folds,II|
-|Yinan Wang|Updates on 4d F-theory landscape|
-|Zhao-Long Wang|On AdS Superspace|
-|Jie-Qiang Wu|Revisiting the approach with the covariant phase formalism for the asymptotic symmetry analysis in the pure AdS3 gravity|
-|Dan Xie|General construction for 3d N=4 mirror pair|
-|Futoshi Yagi|O7-plane and freezing|
-|Junya Yagi|Tetrahedron duality|
-|Wenbin Yan|Mirror symmetry for 4d class-S theories|
-|Haitang Yang|An alternative to purification in CFT|
-|Kilar Zhang|String Dualities and Gravitational Waves|
-|Jiaju Zhang|Subsystem distance, subsystem evolution speed and thermalization|
-|Peng Zhao|Notes on sums over horizons|
-|Xinan Zhou|N=4 SYM on real projective space and analytic conformal bootstrap|
-|Rui-Dong Zhu|Learning Heisenberg Spin Chain with “rotated” Ising Model|
-|Hao Zou|From twisted spin chains to tensor product multiplicities|
-|Fengjun Xu| GUTs on The Dark Dimension Scenario|
-|Jiaqun Jiang|Young Diagram Expressions on Generalized Instanton Counting |
-|Qinjian Lou|Massive spectrum in F-theory and the distance conjecture |
-
-
 ## Accommodation and Venue
 ### Chengdu Xiangyu hotel 成都祥宇宾馆
   
