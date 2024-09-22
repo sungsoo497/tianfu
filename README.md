@@ -83,9 +83,9 @@ Qinjian Lou (Peking University)
 
 
 ## Program
-**[`9/25(Wednesday)`](#9/25(Wednesday) )** **[`9/26(Thursday)`](#9/26(Thursday) )** **[`9/27(Friday)`](#9/27(Friday) )** **[`9/28(Saturday)`](#9/28(Saturday) )** **[`9/29(Sunday)`](#9/29(Sunday) )**
+**[`9/25(Wednesday)`](#September 25 (Wednesday) )** **[`9/26(Thursday)`](#9/26(Thursday) )** **[`9/27(Friday)`](#9/27(Friday) )** **[`9/28(Saturday)`](#9/28(Saturday) )** **[`9/29(Sunday)`](#9/29(Sunday) )**
 
-###9/25(Wednesday)
+### September 25 (Wednesday)
 
 Time|Speaker|Title|
 | -------- | ----------- |-------- |
