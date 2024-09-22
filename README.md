@@ -101,7 +101,7 @@ Time|Speaker|Title|
 | 16:00-16:30|Shi Cheng| Fusions and dualities for 3d theories T[M3] |
 
 
-###9/26(Thursday)
+### September 26 (Thursday)
 
 Time|Speaker|Title|
 | -------- | ----------- |-------- |
@@ -118,7 +118,7 @@ Time|Speaker|Title|
 | 16:00-16:30|Peng Zhao| Notes on sums over horizons|
 
 
-### 9/27(Friday)
+### September 27 (Friday)
 
 Time|Speaker|Title|
 | -------- | ----------- |-------- |
@@ -137,7 +137,7 @@ Time|Speaker|Title|
 
 
 
-### 9/28(Saturday)
+### September 28 (Saturday)
 
 Time|Speaker|Title|
 | -------- | ----------- |-------- |
@@ -154,7 +154,7 @@ Time|Speaker|Title|
 | 16:00-16:30|Hao Zou| From twisted spin chains to tensor product multiplicities|
 
 
-### 9/29(Sunday)
+### September 29 (Sunday)
 
 Time|Speaker|Title|
 | -------- | ----------- |-------- |
