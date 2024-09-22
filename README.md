@@ -1,6 +1,6 @@
 # Tianfu (天府) Fields and Strings 2024
 **[`Invited Participants`](#Invited-Participants)**  **[`Program`](#Program)**   **[`Accommodation and Venue`](#Accommodation-and-Venue)**
- **[`Program27`](#September-27-(Friday))**
+  
 Significant progress has been made lately with respect to the study of supersymmetric gauge theories in various dimensions in the context of supersymmetric gauge theories, quantum gravity, and string theory. The aim of this workshop is to cover some of these topics by inviting leaders in the field and also to create an environment for fruitful interactions between local and domestic researchers. Another important purpose is to provide a venue for students and postdocs in China to interact with leading experts in our research field.
 
 
